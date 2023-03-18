@@ -8,7 +8,7 @@
 <br>
 
 <div id="contact" align="center">
-  <a href="t.me/slagr1k">
+  <a href="https://t.me/slagr1k">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
 </div>
