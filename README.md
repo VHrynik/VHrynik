@@ -14,6 +14,7 @@
 </div>
 
 <div id="views" align="center">
+  [![](https://visitcount.itsvg.in/api?id=VHrynik&icon=2&color=0)](https://visitcount.itsvg.in)
   <img src="https://komarev.com/ghpvc/?username=VHrynik&style=flat-square&color=blue" alt=""/>
 </div>
 
